@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="224px" height="224px" viewBox="0 0 224 224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="42.4562236%" id="radialGradient-1">
+            <stop stop-color="#8E8E8E" offset="0%"></stop>
+            <stop stop-color="#4F4F4F" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="Palpatine" sketch:type="MSLayerGroup" transform="translate(10.000000, 2.000000)">
+                <g id="Artboard-1" sketch:type="MSShapeGroup">
+                    <g id="Page-1">
+                        <g id="Artboard-1">
+                            <g id="Palpatine">
+                                <polygon id="Polygon-2" fill="url(#radialGradient-1)" points="102.5 12 191.267604 63.25 191.267604 165.75 102.5 217 13.7323961 165.75 13.7323961 63.25 "></polygon>
+                                <rect id="Rectangle-36" fill="#A1924B" x="88" y="142" width="28.5204445" height="66.857143"></rect>
+                                <path d="M113.196139,208.857143 C116.96278,208.857143 115.676178,193.104823 115.676178,175.286773 C115.676178,157.468722 115.676178,150 114.436158,150 C113.196139,150 103.704311,169.241756 104,179.42857 C104.295689,189.615385 109.429498,208.857143 113.196139,208.857143 L113.196139,208.857143 Z" id="Oval-21" fill="#DBD2A9"></path>
+                                <path d="M88.4580644,208.199094 C88.4580644,208.199094 87.4274192,168.844468 88.4580649,168.041312 C88.9616232,167.648902 90.731279,175.932857 93.5,183.006523 C96.3980908,190.410709 100.309304,196.669635 101.268895,198.561227 C108.399006,212.61645 88.4580644,208.199094 88.4580644,208.199094 L88.4580644,208.199094 Z" id="Oval-21-Copy" fill="#DBD2A9"></path>
+                                <path d="M88,160.5 C88.0000001,163.078012 92.5000001,160.5 91.9999998,156 C91.4999994,151.5 87.1871931,150.578013 88,153 C88.8128069,155.421987 88.6871931,155.421987 88.6871931,157 C88.6871931,158.578013 87.9999999,157.921987 88,160.5 L88,160.5 Z" id="Oval-23" fill="#BCBCBC"></path>
+                                <rect id="Rectangle-37" fill="#C6B871" x="86" y="137" width="32" height="6" rx="1"></rect>
+                                <rect id="Rectangle-37-Copy" fill="#C6B871" x="88" y="134" width="28" height="3" rx="1"></rect>
+                                <rect id="Rectangle-37-Copy-2" fill="#C6B871" x="88" y="131" width="28" height="3" rx="1"></rect>
+                                <rect id="Rectangle-37-Copy-3" fill="#C6B871" x="88" y="128" width="28" height="3" rx="1"></rect>
+                                <rect id="Rectangle-37-Copy-4" fill="#C6B871" x="88" y="125" width="28" height="3" rx="1"></rect>
+                                <path d="M90.062306,112.604761 L115.08024,112.604761 L125.699951,125 L79.6999512,125 L90.062306,112.604761 L90.062306,112.604761 Z" id="Rectangle-37-Copy-5" fill="#A1924B"></path>
+                                <rect id="Rectangle-43" fill="#C6B871" x="93" y="108" width="18" height="5"></rect>
+                                <polygon id="Polygon-1" stroke="#C2C2C2" stroke-width="13" points="102.5 8 191.267604 59.25 191.267604 161.75 102.5 213 13.7323961 161.75 13.7323961 59.25 "></polygon>
+                                <path d="M90,7.5 L102.5,0.5 L115,7.5 L115,105.5 L90,105.5 L90,2.12090184 L90,7.5 Z" id="Rectangle-6" fill="#DE2727"></path>
+                                <rect id="Rectangle-37-Copy-6" fill="#C6B871" x="86" y="105" width="32" height="3" rx="1"></rect>
+                                <path d="M87.5765961,160.153192 C89.5518956,160.153192 90.5,158.551896 90.5,156.576596 C90.5,154.601297 89.5518956,153 87.5765961,153 C85.6012966,153 85,154.601297 85,156.576596 C85,158.551896 85.6012966,160.153192 87.5765961,160.153192 L87.5765961,160.153192 Z" id="Oval-24" fill="#000000"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

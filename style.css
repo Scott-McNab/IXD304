@@ -1,0 +1,180 @@
+    body{
+        max-width: 100%;
+        height: 100%;
+        margin: 0 auto;
+        padding: 0 auto;
+        background-color: #3FB0E6;
+        color: white;
+    }
+
+#main{
+    text-align: center;
+    width: 100%;
+    float: left;
+    padding: 20% 0 20% 0;
+    background: url(img/sticker.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#main h1,h2{
+    font-family: 'Roboto', sans-serif;
+}
+
+#main h1{
+    font-weight: 300;
+    font-size: 3em;
+    letter-spacing: 0.5;
+    transform : scale(1,1.25);
+    letter-spacing: 0.2em;
+}
+
+#main h2{
+    font-weight: 100;
+    font-size: 2.5em;
+    letter-spacing: 0.2em;
+}
+
+#widget{
+    background-color: white;
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 15% 0;
+}
+
+#widget img{
+    width: 40%;
+    box-shadow: 0px 1px 15px 1px rgba(0,0,0,0.5);
+}
+    
+    .wondicons{
+        width: 100%;
+        float: left;
+    }
+    
+    #wondleft{
+        float: left;
+        width: 40%;
+        text-align: center;
+        padding: 8% 10%;
+    }
+    
+    #wondright{
+        width: 60%;
+        padding: 10% 5%;
+        float: left;
+    }
+    
+    .star{
+        width: 100%;
+        padding-bottom: 5%;
+        float: left;
+        background-color: white;
+        color: black;
+    }
+    
+    #starleft{
+        width: 60%;
+        padding: 10% 5% 0% 5%;
+        float: left;
+        text-align: justify;
+    }
+    
+    #starright{
+        float: left;
+        width: 40%;
+        padding-top: 5%;
+        text-align: center;
+    }
+    
+    #starright img{
+        width: 20%;
+    }   
+    
+    #starleft #btn{
+        float: right;
+    }
+    
+    #top{
+        float: left;
+        margin-top: 2%;
+    }
+    
+    #top img{
+        width: 20%;
+        margin-left: 5%;
+
+    }
+    
+    #mid{
+        float: left;
+        margin-top: 2%;
+    }
+    
+    #mid img{
+        width: 20%;
+        margin-left: 5%;
+    }
+    
+    #bottom{
+        float: left; 
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+    
+    #bottom img{
+        width: 20%;
+        margin-left: 5%;
+    }  
+
+    #wondright #btn a{ 
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight:600;
+    margin: 20px 0 0 0;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 0.65em 1.7em;
+    letter-spacing: 0.2em;
+    transition: all 0.4s ease 0s;
+}
+
+    #wondright #btn a:hover{ 
+    background:white;
+    color: #3FB0E6; 
+}
+    
+    #starleft #btn a{ 
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight:600;
+    margin: 20px 0 0 0;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0.65em 1.7em;
+    letter-spacing: 0.2em;
+    transition: all 0.4s ease 0s;
+}
+
+    #starleft #btn a:hover{ 
+    background:black;
+    color: white;  
+}    
+
+    .wonders {display:none;
+    width: 100%;
+    background-color: transparent; 
+}
+    
+    .sabers{
+        display: block;
+        float: left;
+        width: 100%;
+    }

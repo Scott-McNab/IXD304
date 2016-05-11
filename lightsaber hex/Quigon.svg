@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="224px" height="224px" viewBox="0 0 224 224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="42.4562236%" id="radialGradient-1">
+            <stop stop-color="#8E8E8E" offset="0%"></stop>
+            <stop stop-color="#4F4F4F" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="Quigon" sketch:type="MSLayerGroup" transform="translate(10.000000, 2.000000)">
+                <g id="Artboard-1" sketch:type="MSShapeGroup">
+                    <g id="Page-1">
+                        <g id="Artboard-1">
+                            <g id="Quigon-Jin">
+                                <polygon id="Polygon-2" fill="url(#radialGradient-1)" points="102.5 12 191.267604 63.25 191.267604 165.75 102.5 217 13.7323961 165.75 13.7323961 63.25 "></polygon>
+                                <path d="M84,184 C86.7614237,184 87,181.761424 87,179 C87,176.238576 86.7614237,174 84,174 C81.2385763,174 81.5,176.238576 81.5,179 C81.5,181.761424 81.2385763,184 84,184 L84,184 Z" id="Oval-29" fill="#E63F3F"></path>
+                                <rect id="Rectangle-84" fill="#2C2C2C" x="85" y="147" width="35" height="61"></rect>
+                                <path d="M81.5,125.992687 C81.5,125.444441 81.9216718,124.828165 82.4317489,124.620304 L87.6348315,122.5 L117.837079,122.5 L122.590154,124.598332 C123.092648,124.820167 123.5,125.449169 123.5,125.992687 L123.5,137.507313 C123.5,138.055559 123.214476,138.83811 122.857049,139.261366 L115.477528,148 L89.5224719,148 L82.1429513,139.261366 C81.7878591,138.840875 81.5,138.050831 81.5,137.507313 L81.5,125.992687 L81.5,125.992687 Z" id="Rectangle-85" fill="#2D2D2D"></path>
+                                <path d="M120,207.5 L120,158 C120,155 108.973512,161.960753 104,168.5 C99.026488,175.039248 94.5390045,187.223536 93,193.5 C90.816187,202.406162 88,207.5 88,207.5 L120,207.5 L120,207.5 Z" id="Oval-32" fill="#EBDC93"></path>
+                                <polygon id="Polygon-1" stroke="#C2C2C2" stroke-width="13" points="102.5 8 191.267604 59.25 191.267604 161.75 102.5 213 13.7323961 161.75 13.7323961 59.25 "></polygon>
+                                <path d="M102.5,0.5 L115,7.60000038 L115,106.5 L90,106.5 L90,7.60000038 L102.5,0.5 Z" id="Rectangle-6" fill="#50C91A"></path>
+                                <path d="M88,119 L88,106 L118,106 L118,119 L117,123 L89,123 L88,119 L88,119 Z" id="Rectangle-86" fill="#2D2D2D"></path>
+                                <path d="M85,108 C85,106.895431 85.8871117,105.946236 86.9902855,105.879377 L101.5,105 L118.002599,105.892032 C119.105733,105.951661 120,106.88773 120,108 L120,108 C120,109.104569 119.107707,109.951768 118.002599,109.892032 L101.5,109 L86.9902855,109.879377 C85.8910812,109.945995 85,109.11227 85,108 L85,108 L85,108 Z" id="Rectangle-87" fill="#EBDC93"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<title>Icons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300' rel='stylesheet' type='text/css'>
+    
+    <link rel="stylesheet" href="style.css">
+    
+
+    
+<body>
+    
+    <div id="main">
+        
+        <h1>SCOTT MCNAB</h1>
+        
+        <h2>ICON SET</h2>
+    
+    </div>
+    
+    <div id="widget">
+        
+        <img src="img/widget.png" />
+    
+    </div>
+
+    <div class="wondicon">
+    
+        <div id="wondleft">
+    
+            <img class="wonders" src="img/giza.png" alt="Pyramid's of Giza" >
+            <img class="wonders" src="img/taj.png" alt="Taj Mahal" >
+            <img class="wonders" src="img/col.png" alt="Colosseum">
+            <img class="wonders" src="img/chitch.png" alt="Chichen Itza">
+            <img class="wonders" src="img/petra.png" alt="City of Petra">
+            <img class="wonders" src="img/wall.png" alt="The Great Wall of China">
+            <img class="wonders" src="img/stone.png" alt="Stonehenge">
+        
+        </div>
+    
+        <div id="wondright">
+        
+            <h2>7 WONDERS OF THE WORLD</h2>
+        
+            <p>This colourful icon set includes 7 clean, modern style icons. Got a travel or history site? Then these  icons will be perfect for your site. Download the six icons for free and use them in your projects without any restrictions. </p>
+        
+            <div id="btn" class="animated fadeIn">
+        
+            <a href="wonders.zip" download class="ghost_btn" >DOWNLOAD</a>
+        
+            </div>
+    
+        </div>
+        
+    </div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("wonders");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 4000); // Change image every 2 seconds
+}
+</script>
+    
+    <div class="star">
+    
+        <div id="starleft">
+        
+            <h2>Lightsabers</h2>
+        
+            <p>This is a Lightsaber icon set inspired by Star Wars including some of the iconic lightsabers from throughout the saga. These simple icons will help you rediscover YOUR love of Star Wars and are free to use for any type of project, whether personal or transfroming them into stickers for your laptop.</p>
+        
+            <div id="btn" class="animated fadeIn">
+        
+                <a href="sabers.zip" download class="ghost_btn" >DOWNLOAD</a>
+        
+            </div>
+        
+        </div>
+        
+        <div id="starright">
+            
+            <div id="top">
+        
+                <img class="sabers" src="img/Obi-Wan.svg" alt="Obi Wan Kenobi" >
+                <img class="sabers" src="img/Luke%20Green.svg" alt="Luke Skywalker" >     
+                <img class="sabers" src="img/vader.svg" alt="Darth Vader">
+        
+            </div>
+        
+            <div id="mid">
+        
+                <img class="sabers" src="img/Palpatine.svg" alt="Emperor Palpatine">
+                <img class="sabers" src="img/Luke%20Blue.svg" alt="Luke Skywalker">
+                <img class="sabers" src="img/Yoda.svg" alt="Yoda">
+        
+            </div>    
+            
+            <div id="bottom">      
+            
+                <img class="sabers" src="img/Quigon.svg" alt="Quigon Jin">     
+                <img class="sabers" src="img/Kylo%20Ren.svg" alt="Kylo Ren">
+                <img class="sabers" src="img/Mace%20Windu.svg" alt="Mace Windu"> 
+        
+            </div>      
+        
+        </div>
+        
+    </div>
+
+</body>
+    
+</html> 

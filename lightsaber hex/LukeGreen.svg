@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="224px" height="224px" viewBox="0 0 224 224" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="42.4562236%" id="radialGradient-1">
+            <stop stop-color="#8E8E8E" offset="0%"></stop>
+            <stop stop-color="#4F4F4F" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="Luke-Green" sketch:type="MSLayerGroup" transform="translate(10.000000, 2.000000)">
+                <g id="Artboard-1" sketch:type="MSShapeGroup">
+                    <g id="Page-1">
+                        <g id="Artboard-1">
+                            <g id="Luke-Sky">
+                                <polygon id="Polygon-2" fill="url(#radialGradient-1)" points="102.5 12 191.267604 63.25 191.267604 165.75 102.5 217 13.7323961 165.75 13.7323961 63.25 "></polygon>
+                                <path d="M85.3121951,181.231132 C87.9523856,181.231132 88.1804878,179.08759 88.1804878,176.443396 C88.1804878,173.799202 87.9523856,171.65566 85.3121951,171.65566 C82.6720047,171.65566 82.9219512,173.799202 82.9219512,176.443396 C82.9219512,179.08759 82.6720047,181.231132 85.3121951,181.231132 L85.3121951,181.231132 Z" id="Oval-29" fill="#E63F3F"></path>
+                                <rect id="Rectangle-46" fill="#CECECE" x="86.2682927" y="145.801887" width="33.4634146" height="60.3254717"></rect>
+                                <rect id="Rectangle-57" fill="#000000" x="86.2682927" y="189.849057" width="33.4634146" height="1.91509434"></rect>
+                                <rect id="Rectangle-57-Copy-2" fill="#000000" x="86.2682927" y="194.636792" width="33.4634146" height="1.91509434"></rect>
+                                <rect id="Rectangle-57-Copy-3" fill="#000000" x="86.2682927" y="185.061321" width="33.4634146" height="1.91509434"></rect>
+                                <rect id="Rectangle-57-Copy-4" fill="#000000" x="86.2682927" y="175.485849" width="33.4634146" height="1.91509434"></rect>
+                                <rect id="Rectangle-57-Copy-5" fill="#000000" x="86.2682927" y="165.910377" width="33.4634146" height="1.91509434"></rect>
+                                <rect id="Rectangle-57-Copy-6" fill="#000000" x="86.2682927" y="145.801887" width="33.4634146" height="12.4481132"></rect>
+                                <rect id="Rectangle-57-Copy-7" fill="#000000" x="86.2682927" y="161.122642" width="33.4634146" height="1.91509434"></rect>
+                                <rect id="Rectangle-57-Copy-8" fill="#000000" x="86.2682927" y="170.698113" width="33.4634146" height="1.91509434"></rect>
+                                <rect id="Rectangle-57-Copy-9" fill="#000000" x="86.2682927" y="180.273585" width="33.4634146" height="1.91509434"></rect>
+                                <path d="M95.8292683,122.820755 L110.170732,122.820755 L110.170732,128.88522 L120.209756,141.014151 L86.2682927,141.014151 L95.8292683,128.88522 L95.8292683,122.820755 L95.8292683,122.820755 Z" id="Rectangle-20-Copy-13" fill="#A39B3D"></path>
+                                <rect id="Rectangle-20-Copy-11" fill="#A39B3D" x="86.2682927" y="141.014151" width="33.4634146" height="4.78773585"></rect>
+                                <polygon id="Polygon-1" stroke="#C2C2C2" stroke-width="13" points="102.5 8 191.267604 59.25 191.267604 161.75 102.5 213 13.7323961 161.75 13.7323961 59.25 "></polygon>
+                                <path d="M102.5,0.5 L114.95122,7.49999999 L114.95122,106.063679 L91.0487805,106.063679 L91.0487805,7.07331638 C91.0487805,6.97422077 102.5,0.5 102.5,0.5 Z" id="Rectangle-6" fill="#50C919"></path>
+                                <rect id="Rectangle-20-Copy-10" fill="#D0D0D0" x="95.8292683" y="119.948113" width="14.3414634" height="4.78773585"></rect>
+                                <rect id="Rectangle-20-Copy-9" fill="#D0D0D0" x="92.9609756" y="111.330189" width="20.0780488" height="9.5754717"></rect>
+                                <rect id="Rectangle-20-Copy-8" fill="#D0D0D0" x="88.1804878" y="105.584906" width="28.6829268" height="11.490566"></rect>
+                                <rect id="Rectangle-20-Copy-7" fill="#D0D0D0" x="83.4" y="105.584906" width="38.2439024" height="4.78773585"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

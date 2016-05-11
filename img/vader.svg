@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="48.5495351%" id="radialGradient-1">
+            <stop stop-color="#8E8E8E" offset="0%"></stop>
+            <stop stop-color="#4F4F4F" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="Vader" sketch:type="MSLayerGroup" transform="translate(8.000000, 1.000000)">
+                <circle id="Oval-1" fill="url(#radialGradient-1)" sketch:type="MSShapeGroup" cx="102" cy="109" r="100"></circle>
+                <rect id="Rectangle-1" opacity="0.64453125" fill="#EBEBEB" sketch:type="MSShapeGroup" x="87" y="105" width="30" height="111"></rect>
+                <rect id="Rectangle-2" fill="#000000" sketch:type="MSShapeGroup" x="84" y="178" width="36" height="38"></rect>
+                <rect id="Rectangle-13" fill="#D0D0D0" sketch:type="MSShapeGroup" x="78" y="187" width="6" height="20"></rect>
+                <ellipse id="Oval-5" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="76" cy="192" rx="1" ry="3"></ellipse>
+                <ellipse id="Oval-5-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="76" cy="202" rx="1" ry="3"></ellipse>
+                <rect id="Rectangle-14" fill="#000000" sketch:type="MSShapeGroup" x="76" y="187" width="2" height="15"></rect>
+                <circle id="Oval-2" stroke="#C2C2C2" stroke-width="13" sketch:type="MSShapeGroup" cx="102.5" cy="109.5" r="102.5"></circle>
+                <path d="M91,1.1000061 C91,0.999999885 98.5,0.499999958 103,0.5 C107.5,0.500000042 116,1.19999695 116,1.19999695 L116,101 L91,101 C91,101 91,2.00000015 91,1.1000061 Z" id="Rectangle-6" fill="#E63F3F" sketch:type="MSShapeGroup"></path>
+                <path d="M84,103.5 L124,82 L124,154 L117.5,154 L110.111111,141.5 L84,141.5 L84,103.5 Z" id="Rectangle-2-Copy" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <path d="M82,122 L124,122 L124,154 L117.175,154 L109.416667,141.5 L82,141.5 L82,122 Z" id="Rectangle-2-Copy-2" fill="#000000" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-4" fill="#D8D8D8" sketch:type="MSShapeGroup" x="124" y="136" width="4" height="9"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="48.5495351%" id="radialGradient-1">
+            <stop stop-color="#8E8E8E" offset="0%"></stop>
+            <stop stop-color="#4F4F4F" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="Kylo-Ren" sketch:type="MSLayerGroup" transform="translate(8.000000, 1.000000)">
+                <ellipse id="Oval-1-Copy-2" fill="url(#radialGradient-1)" sketch:type="MSShapeGroup" cx="102" cy="109" rx="100" ry="100"></ellipse>
+                <rect id="Rectangle-46" fill="#373737" sketch:type="MSShapeGroup" x="88.5" y="179" width="28" height="37"></rect>
+                <ellipse id="Oval-2" stroke="#C2C2C2" stroke-width="13" sketch:type="MSShapeGroup" cx="102.5" cy="109.5" rx="102.5" ry="102.5"></ellipse>
+                <path d="M90,1.12090184 C90,1.01741282 97.5,0.499999956 102,0.5 C106.5,0.500000044 115,1.22437495 115,1.22437495 L115,104.5 L90,104.5 C90,104.5 90,2.05223896 90,1.12090184 Z" id="Rectangle-6" fill="#DE2727" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-54" fill="#373737" sketch:type="MSShapeGroup" x="89.5" y="104" width="26" height="10"></rect>
+                <rect id="Rectangle-46-Copy" fill="#282828" sketch:type="MSShapeGroup" x="85.5" y="113" width="34" height="66"></rect>
+                <path d="M84.074994,133.602579 C82.2131102,129.836189 81.5,115.5 81.5,115.5 L85.4100512,114.5 L85.4100511,134.5 C85.4100511,134.5 84.3565561,134.172149 84.074994,133.602579 Z" id="Rectangle-48" fill="#282828" sketch:type="MSShapeGroup"></path>
+                <path d="M122.074994,133.602579 C120.21311,129.836189 119.5,115.5 119.5,115.5 L123.410051,114.5 L123.410051,134.5 C123.410051,134.5 122.356556,134.172149 122.074994,133.602579 Z" id="Rectangle-48-Copy-2" fill="#282828" sketch:type="MSShapeGroup" transform="translate(121.455026, 124.500000) scale(-1, 1) translate(-121.455026, -124.500000) "></path>
+                <path d="M17,124.5 C17,119.5 27.5,117 29,117 L61,117 L61,133 L29,133 C28,133 17,129.5 17,124.5 Z" id="Rectangle-52" fill="#E63F3F" sketch:type="MSShapeGroup"></path>
+                <path d="M144,124.5 C144,119.5 154.5,117 156,117 L188,117 L188,133 L156,133 C155,133 144,129.5 144,124.5 Z" id="Rectangle-52-Copy" fill="#E63F3F" sketch:type="MSShapeGroup" transform="translate(166.000000, 125.000000) scale(-1, 1) translate(-166.000000, -125.000000) "></path>
+                <path d="M57,126 C58.2342842,123.796022 59.5,122.5 59.5,122.5 L60.5,116 L82,116 L84.5,134 L54.5,134 C54.5,134 55.3077493,129.021739 57,126 Z" id="Rectangle-50" fill="#3A3930" sketch:type="MSShapeGroup"></path>
+                <path d="M123,126 C124.234284,123.796022 125.5,122.5 125.5,122.5 L126.5,116 L148,116 L150.5,134 L120.5,134 C120.5,134 121.307749,129.021739 123,126 Z" id="Rectangle-50-Copy" fill="#3A3930" sketch:type="MSShapeGroup" transform="translate(135.500000, 125.000000) scale(-1, 1) translate(-135.500000, -125.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

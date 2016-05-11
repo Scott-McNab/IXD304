@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<title>Icons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    
+<style>
+    
+    .wondicons{
+        width: 100%;
+        float: left;
+    }
+    #wondleft{
+        float: left;
+        width: 40%;
+        background-color: #5A5A5A;
+        text-align: center;
+        padding: 8% 10%;
+    }
+    
+    #wondright{
+        width: 60%;
+        padding: 10% 5%;
+        float: left;
+    }
+    
+    .star{
+        width: 100%;
+        float: left;
+    }
+    
+    #starleft{
+        width: 60%;
+        padding: 10% 5%;
+        float: left;
+    }
+    
+    #starright{
+        float: left;
+        width: 40%;
+        text-align: center;
+    }
+    
+    #starright img{
+        display: block;
+        width: 30%;
+    }
+    
+    #starleft #btn{
+        float: right;
+    }
+    
+#btn a{ 
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    font-weight:600;
+    margin: 20px 0 0 0;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0.65em 1.7em;
+    letter-spacing: 0.2em;
+    transition: all 0.4s ease 0s;
+}
+
+#btn a:hover{ 
+    background:black;
+    color: white;
+   
+}
+    
+.wonders {display:none;
+width: 100%;}
+    
+    .sabers{
+        display: none;
+        width: 100%;
+    }
+    
+</style>
+    
+<body>
+
+<div class="wondicon">
+    
+    <div id="wondleft">
+    
+    <img class="wonders" src="img/giza.png" alt="Pyramid's of Giza" >
+    <img class="wonders" src="img/taj.png" alt="Taj Mahal" >
+    <img class="wonders" src="img/col.png" alt="Colosseum">
+    <img class="wonders" src="img/chitch.png" alt="Chichen Itza">
+    <img class="wonders" src="img/petra.png" alt="City of Petra">
+    <img class="wonders" src="img/wall.png" alt="The Great Wall of China">
+    <img class="wonders" src="img/stone.png" alt="Stonehenge">
+        
+        </div>
+    
+    <div id="wondright">
+        
+        <h2>7 WONDERS OF THE WORLD</h2>
+        
+        <p>Fusce a odio ut tellus dapibus fringilla. Praesent viverra lacus eget lacinia posuere. In sit amet lacinia lectus. Donec et egestas dolor. Duis feugiat nulla a elit feugiat, vitae ornare dolor feugiat. Vivamus mi velit, molestie at tincidunt vel, lobortis nec ex. Donec dignissim sapien eget accumsan ultricies.</p>
+        
+        <div id="btn" class="animated fadeIn">
+        
+        <a href="wonders.zip" download class="ghost_btn" >DOWNLOAD</a>
+        
+        </div>
+    
+    </div>
+        
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("wonders");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+    
+    <div class="star">
+    
+    <div id="starleft">
+        
+        <h2>Lightsabers</h2>
+        
+        <p>Fusce a odio ut tellus dapibus fringilla. Praesent viverra lacus eget lacinia posuere. In sit amet lacinia lectus. Donec et egestas dolor. Duis feugiat nulla a elit feugiat, vitae ornare dolor feugiat. Vivamus mi velit, molestie at tincidunt vel, lobortis nec ex. Donec dignissim sapien eget accumsan ultricies.</p>
+        
+        <div id="btn" class="animated fadeIn">
+        
+        <a href="sabers.zip" download class="ghost_btn" >DOWNLOAD</a>
+        
+        </div>
+        
+        </div>
+        
+        <div id="starright">
+    
+    <img class="sabers" src="img/Obi-Wan.svg" alt="Obi Wan Kenobi" >
+        
+        <p>Obi Wan Kenobi</p>
+        
+    <img class="sabers" src="img/Luke%20Green.svg" alt="Luke Skywalker" >
+        
+        <p>Luke Skywalker</p>
+        
+    <img class="sabers" src="img/vader.svg" alt="Darth Vader">
+        
+        <p>Darth Vader</p>
+        
+        </div>
+        
+</div>
+
+</body>
+</html> 

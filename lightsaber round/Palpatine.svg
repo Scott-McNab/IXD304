@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="220px" height="220px" viewBox="0 0 220 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="48.5495351%" id="radialGradient-1">
+            <stop stop-color="#8E8E8E" offset="0%"></stop>
+            <stop stop-color="#4F4F4F" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup">
+            <g id="Palpatine" sketch:type="MSLayerGroup" transform="translate(8.000000, 0.000000)">
+                <ellipse id="Oval-1-Copy" fill="url(#radialGradient-1)" sketch:type="MSShapeGroup" cx="102" cy="109" rx="100" ry="100"></ellipse>
+                <rect id="Rectangle-36" fill="#A1924B" sketch:type="MSShapeGroup" x="88" y="141" width="28.5204445" height="75.2761905"></rect>
+                <path d="M113.196139,215.857143 C116.96278,215.857143 115.676178,197.963731 115.676178,177.72381 C115.676178,157.483888 115.676178,149 114.436158,149 C113.196139,149 103.704311,170.85714 104,182.42857 C104.295689,194 109.429498,215.857143 113.196139,215.857143 Z" id="Oval-21" fill="#DBD2A9" sketch:type="MSShapeGroup"></path>
+                <path d="M88.4580644,216.568253 C88.4580644,216.568253 87.4274192,168.03492 88.4580649,167.044444 C88.9616232,166.560512 90.731279,176.776539 93.5,185.500001 C96.3980908,194.63107 100.309304,202.34977 101.268895,204.682539 C108.399006,222.015872 88.4580644,216.568253 88.4580644,216.568253 Z" id="Oval-21-Copy" fill="#DBD2A9" sketch:type="MSShapeGroup"></path>
+                <path d="M88,159.5 C88.0000001,162.078012 92.5000001,159.5 91.9999998,155 C91.4999994,150.5 87.1871931,149.578013 88,152 C88.8128069,154.421987 88.6871931,154.421987 88.6871931,156 C88.6871931,157.578013 87.9999999,156.921987 88,159.5 Z" id="Oval-23" fill="#BCBCBC" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-37" fill="#C6B871" sketch:type="MSShapeGroup" x="86" y="136" width="32" height="6" rx="1"></rect>
+                <rect id="Rectangle-37-Copy" fill="#C6B871" sketch:type="MSShapeGroup" x="88" y="133" width="28" height="3" rx="1"></rect>
+                <rect id="Rectangle-37-Copy-2" fill="#C6B871" sketch:type="MSShapeGroup" x="88" y="130" width="28" height="3" rx="1"></rect>
+                <rect id="Rectangle-37-Copy-3" fill="#C6B871" sketch:type="MSShapeGroup" x="88" y="127" width="28" height="3" rx="1"></rect>
+                <rect id="Rectangle-37-Copy-4" fill="#C6B871" sketch:type="MSShapeGroup" x="88" y="124" width="28" height="3" rx="1"></rect>
+                <path d="M90.062306,111.604761 L115.08024,111.604761 L125.699951,124 L79.6999512,124 L90.062306,111.604761 Z" id="Rectangle-37-Copy-5" fill="#A1924B" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-43" fill="#C6B871" sketch:type="MSShapeGroup" x="93" y="107" width="18" height="5"></rect>
+                <ellipse id="Oval-2" stroke="#C2C2C2" stroke-width="13" sketch:type="MSShapeGroup" cx="102.5" cy="109.5" rx="102.5" ry="102.5"></ellipse>
+                <path d="M90,1.12090184 C90,1.01741282 97.5,0.499999956 102,0.5 C106.5,0.500000044 115,1.22437495 115,1.22437495 L115,104.5 L90,104.5 C90,104.5 90,2.05223896 90,1.12090184 Z" id="Rectangle-6" fill="#DE2727" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-37-Copy-6" fill="#C6B871" sketch:type="MSShapeGroup" x="86" y="104" width="32" height="3" rx="1"></rect>
+                <path d="M87.5765961,159.153192 C89.5518956,159.153192 90.5,157.551896 90.5,155.576596 C90.5,153.601297 89.5518956,152 87.5765961,152 C85.6012966,152 85,153.601297 85,155.576596 C85,157.551896 85.6012966,159.153192 87.5765961,159.153192 Z" id="Oval-24" fill="#000000" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
