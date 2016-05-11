@@ -2,11 +2,11 @@
 
 ## Style Tile
 
-![](http://scott-mcnab.github.io/7wonders/icons.sketch "Style Tile")
+![](http://scott-mcnab.github.io/IXD304/wonders.png "Style Tile")
 
 ## Version 1
 
-![](http://scott-mcnab.github.io//IXD304/lightsaberround/Lightsabers.png "Lightsabers")
+![](http://scott-mcnab.github.io/IXD304/Lightsabers.png "Lightsabers")
 
 
 ## Version 2
