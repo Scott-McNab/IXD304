@@ -2,7 +2,7 @@
 
 ## Style Tile
 
-![](http://scott-mcnab.github.io/IXD303/A4.png "Style Tile")
+![](http://scott-mcnab.github.io/7wonders/icons.sketch "Style Tile")
 
 ## Version 1
 
