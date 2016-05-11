@@ -6,7 +6,7 @@
 
 ## Lightsabers
 
-![](http://scott-mcnab.github.io/IXD304/Lightsabers.png "Lightsabers")
+![](http://scott-mcnab.github.io/IXD304/Lightsabers.svg "Lightsabers")
 
 
 ## Website
